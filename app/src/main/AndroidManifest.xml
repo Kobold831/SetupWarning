@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
+        android:label="SetupWarning"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
         tools:ignore="MissingApplicationIcon">
 
